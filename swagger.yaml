@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   version: 1.0.0
   title: Geom v2
-  description: Просто тестируем
+  description: Просто тестируем 123123
   termsOfService: http://swagger.io/terms/
   contact:
     name: Swagger API Team
